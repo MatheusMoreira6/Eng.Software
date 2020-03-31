@@ -1,2 +1,3 @@
 # Eng.Software
- Course of Software Engineering
+
+Exercícios realizados durante o curso de engenharia de software (2020-2024).
