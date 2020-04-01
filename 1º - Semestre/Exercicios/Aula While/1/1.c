@@ -1,3 +1,6 @@
+/*Escreva um programa para ler 2 valores (se o segundo valor informado for ZERO, deve ser
+lido um novo valor) e imprimir o resultado da divisão do primeiro pelo segundo.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>

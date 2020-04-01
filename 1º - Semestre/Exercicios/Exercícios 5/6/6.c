@@ -1,3 +1,6 @@
+/*Faça um programa que calcule o produto de dois números lidos da entrada (n1 e n2)
+através do método de somas sucessivas. Suponha que n1 e n2 são positivos.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
@@ -9,7 +12,7 @@ void main()
     system("color 70");
     Q=1;
     printf("PRODUTO DE DOIS NÚMEROS INTEIROS\n_____________________________________");
-    printf("\n\nInforme o primeiro números:");
+    printf("\n\nInforme o primeiro número:");
         scanf("%d", &N1);
     while(N1<0)
     {

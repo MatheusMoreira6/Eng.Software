@@ -1,3 +1,5 @@
+/*Faça um programa que imprima os valores pares de 0 (zero) a 10 (dez).*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>

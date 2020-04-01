@@ -1,3 +1,7 @@
+/*Faça um programa que leia o valor do salário de uma pessoa e o valor de um financiamento pretendido.
+Caso o financiamento seja menor ou igual a 5 vezes o salário da pessoa, o programa deverá escrever
+“Financiamento Concedido”, caso contrário ele deverá escrever “Financiamento Negado”.*/
+
 #include <stdio.h> //Biblioteca de entrada/saída.
 #include <stdlib.h> //Biblioteca para utilização da função "system".
 #include <locale.h> //Biblioteca para funcionamento de uma linguagem de escrita específica.

@@ -1,3 +1,6 @@
+/*José tem 1,50 m e cresce 2 centímetros por ano. Pedro tem 1,10 m e cresce 3 centímetros
+por ano. Construa um programa que calcule em quantos anos Pedro será maior que José.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>

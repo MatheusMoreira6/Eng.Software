@@ -1,3 +1,6 @@
+/*Faça um programa que leia um inteiro positivo N. Calcule e mostre os N
+primeiros termos da sequência (1, 3, 6, 10, 15, 21, ...).*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>

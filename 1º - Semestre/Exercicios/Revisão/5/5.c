@@ -1,3 +1,7 @@
+/*Faça um programa que leia o peso de um objeto na Terra e o número identificador de um planeta.
+Calcule e imprima o peso do objeto neste planeta. A relação de planetas é dada a seguir
+juntamente com o valor das gravidades relativas em relação à Terra. (Utilizar a estrutura switch)*/
+
 #include <stdio.h> //Biblioteca de entrada/saída.
 #include <stdlib.h> //Biblioteca para utilização da função "system".
 #include <locale.h> //Biblioteca para funcionamento de uma linguagem de escrita específica.

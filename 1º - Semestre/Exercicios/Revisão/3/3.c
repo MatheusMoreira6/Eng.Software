@@ -1,3 +1,7 @@
+/*Um posto está vendendo Gasolina com os seguintes descontos: até 20 litros, desconto de 4% por litro e acima de 20 litros,
+desconto de 6% por litro. Faça um programa que leia o número de litros vendidos de gasolina e mostre o valor a ser pago
+pelo cliente. Considere que o preço do litro da gasolina é R$ 4,30.*/
+
 #include <stdio.h> //Biblioteca de entrada/saída.
 #include <stdlib.h> //Biblioteca para utilização da função "system".
 #include <locale.h> //Biblioteca para funcionamento de uma linguagem de escrita específica.

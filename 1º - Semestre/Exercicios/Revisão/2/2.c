@@ -1,3 +1,7 @@
+/*Faça um programa que leia o tempo de serviço e o salário de um funcionário e calcule e mostre um
+reajuste salarial de acordo com a seguinte situação: se o funcionário possui tempo de serviço
+inferior a 10 anos, o reajuste será de 8%, caso contrário, o reajuste salarial será de 10%.*/
+
 #include <stdio.h> //Biblioteca de entrada/saída.
 #include <stdlib.h> //Biblioteca para utilização da função "system".
 #include <locale.h> //Biblioteca para funcionamento de uma linguagem de escrita específica.

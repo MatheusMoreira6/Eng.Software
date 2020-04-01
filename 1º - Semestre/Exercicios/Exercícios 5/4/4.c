@@ -1,3 +1,6 @@
+/*Faça um programa que leia dez números inteiros aleatórios
+e apresente os números que são divisíveis por 3 (três).*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
