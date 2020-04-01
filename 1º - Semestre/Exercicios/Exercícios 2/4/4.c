@@ -1,3 +1,5 @@
+/*Leia dois números inteiros e que compara e mostra se são iguais ou diferentes.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>

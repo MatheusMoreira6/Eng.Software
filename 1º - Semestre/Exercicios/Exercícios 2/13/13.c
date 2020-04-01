@@ -1,3 +1,6 @@
+/*Leia o sexo (‘h’ para homem e ‘m’ para mulher) e a altura de uma
+pessoa, e que calcula e mostra o seu peso ideal baseado na altura.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
@@ -16,16 +19,12 @@ void main()
     if (S=='H'|| S=='h')
     {
         P=(72.7*A)-58;
-        printf("\nO seu peso ideal é:%gkg\n\n\n", P);
+        printf("\nO seu peso ideal é:%gkg\n\n", P);
     }
     else if (S=='M' || S=='m')
     {
         P=(62.1*A)-44.7;
-        printf("\nO seu peso ideal é:%gkg\n\n\n", P);
-    }
-    else if (S=='G' || S=='g')
-    {
-        printf("\nÉ engraçado porque ele é gordo :)\n\n");
+        printf("\nO seu peso ideal é:%gkg\n\n", P);
     }
     system("pause");
 }

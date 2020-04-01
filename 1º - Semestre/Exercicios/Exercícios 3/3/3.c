@@ -1,3 +1,6 @@
+/*Faça um programa que leia o número de identificação de um aluno, as 03 notas obtidas pelo aluno
+e a média dos exercícios que fazem parte da avaliação. Calcular a média de aproveitamento.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>

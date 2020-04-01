@@ -1,3 +1,9 @@
+/*Uma loja de materiais de construção pretende promover uma liquidação de seu estoque
+com descontos variáveis de acordo com o produto. Para isto, a loja necessita de um
+programa que leia o código e o valor do produto e calcule e mostre o valor do produto
+com o devido desconto conforme apresenta a tabela abaixo. Dessa forma, faça o programa
+que atenda a necessidade da loja.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>

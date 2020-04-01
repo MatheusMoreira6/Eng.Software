@@ -1,3 +1,5 @@
+/*Leia um número inteiro e que verifica e mostra se o respectivo número é par ou ímpar.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>

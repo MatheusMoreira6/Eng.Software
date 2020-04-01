@@ -1,3 +1,8 @@
+/*Leia a quantidade de horas trabalhadas de um funcionário e o
+preço pago por cada hora de trabalho, e que calcula e mostra o
+salário dele. Todas as horas acima de 40 são pagas com um
+adicional de 50% ao valor das horas normais.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>

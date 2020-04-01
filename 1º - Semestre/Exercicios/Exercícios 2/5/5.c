@@ -1,3 +1,5 @@
+/*Leia um número inteiro e que verifica e mostra se ele é divisível por 3.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>

@@ -1,3 +1,6 @@
+/*Um vendedor necessita de um programa que calcule o valor total devido por um cliente.O programa
+deve receber o código de um produto e a quantidade comprada e calcular o preço total*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>

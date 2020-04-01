@@ -1,3 +1,5 @@
+/*Leia um ano e verifica e mostra se o dado ano é bissexto. Lembre-se que um ano é bissexto se ele é múltiplo de 4.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>

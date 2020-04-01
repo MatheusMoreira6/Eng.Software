@@ -1,3 +1,8 @@
+/*Leia quatro notas de um aluno, calcula e mostra a sua média classificando-o
+de acordo uma das seguintes situações: se a média for maior ou igual a 6.0, o
+aluno está aprovado, se a média for menor que 6.0 e maior ou igual a 3.0, o
+aluno está de exame, e se a média for menor que 3.0, o aluno está reprovado.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>

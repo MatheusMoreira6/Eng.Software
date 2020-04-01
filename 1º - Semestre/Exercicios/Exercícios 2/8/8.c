@@ -1,3 +1,7 @@
+/*Leia quatro notas de um aluno e que calcula e mostra a sua média e diga
+se o aluno foi aprovado ou reprovado na disciplina. Obs. Para ser aprovado
+aluno deve obter média maior ou igual a 6.0.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>

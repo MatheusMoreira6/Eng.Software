@@ -1,3 +1,5 @@
+/*Leia dois números inteiros e que determina e mostra a diferença do maior pelo menor.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>

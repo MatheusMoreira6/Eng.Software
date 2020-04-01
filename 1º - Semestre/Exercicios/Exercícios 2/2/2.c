@@ -1,3 +1,5 @@
+/*Leia a idade de uma pessoa e que determina e mostra se a pessoa é maior ou menor de idade.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>

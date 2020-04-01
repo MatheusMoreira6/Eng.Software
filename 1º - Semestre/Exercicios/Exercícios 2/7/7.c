@@ -1,3 +1,5 @@
+/*Leia dois números inteiros n1 e n2 e que verifica e mostra se n1 é ou não múltiplo de n2.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>

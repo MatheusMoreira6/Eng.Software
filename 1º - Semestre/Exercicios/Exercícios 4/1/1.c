@@ -1,3 +1,6 @@
+/*Faça um programa que leia o código do item pedido, a quantidade e calcule o valor a ser
+pago por aquele lanche. Considere que a cada execução somente será calculado um item.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>

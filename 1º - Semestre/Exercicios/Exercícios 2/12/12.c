@@ -1,3 +1,6 @@
+/*Leia três números inteiros e que determina e mostra o valor intermediário,
+entre o menor e o maior número. Suponha que os números sejam diferentes.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
@@ -24,6 +27,10 @@ void main()
     else if ((C>A && C<B) || (C<A && C>B))
     {
         printf("\nO terceiro valor é o número intermediário!\n\n");
+    }
+    else if (A==B && A==C)
+    {
+        printf("\nTodos os números informados são iguais!\n\n");
     }
     system("pause");
 }
