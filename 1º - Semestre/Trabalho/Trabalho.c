@@ -12,6 +12,7 @@ int main() //Inicio da função principal.
     int Op; //Declaração de variáveis (inteira).
     char V; //Declaraçao de váriavel para caracteres.
     do{ //Inicio da função do-while.
+        V=0; //Reset da variável.
         system("color F0"); //Alteração da coloração.
         //Abaixo função printf para impressão do menu.
         printf("---------------------\n|    Calculadora    |\n---------------------\n| 1 - Adição        |\n| 2 - Subtração     |\n| 3 - Multiplicação |\n| 4 - Divisão       |\n| 5 - Potenciação   |\n| 0 - Sair          |\n---------------------\n");
@@ -98,6 +99,10 @@ int main() //Inicio da função principal.
             if(V=='S' || V=='s') //Função if para verificação se o valor informado pelo o usuário é S(Sim), caso seja, ele realizará a função dentre chaves.
             {
                 system("cls"); //Função system("cls") para limpar a tela.
+                N1=0; //Reset da variável.
+                N2=0; //Reset da variável.
+                Op=0; //Reset da variável.
+                R=0; //Reset da variável.
             }
         }
         /*Abaixo função else, referente ao primeiro if utilizado.
