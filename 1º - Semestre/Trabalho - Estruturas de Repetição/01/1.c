@@ -9,7 +9,7 @@ void main()
 {
     float A, A1=1.80;
     int N=1, N2=0;
-    system("Color 70");
+    system("Color F0");
     setlocale(LC_ALL, "Portuguese");
     system("Title 1º Exercício do Trabalho");
     printf("Quantidade de pessoas maiores que 1,80m");

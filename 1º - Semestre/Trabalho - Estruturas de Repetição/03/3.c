@@ -9,7 +9,7 @@ imprimir o valor 20, pois 2 + 4 + 6 + 8 = 20).*/
 void main()
 {
     int N=0, N1=0, N2=0, C=0;
-    system("Color 70");
+    system("Color F0");
     system("Title 3º Exercícido do Trabalho");
     setlocale(LC_ALL, "Portuguese");
     printf("Soma dos N primeiros números pares");

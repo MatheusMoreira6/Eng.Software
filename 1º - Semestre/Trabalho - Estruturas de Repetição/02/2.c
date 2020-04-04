@@ -8,7 +8,7 @@ maior idade. O programa deve encerrar quando for informado uma idade igual zero.
 void main()
 {
     int I=1, I_M=0;
-    system("Color 70");
+    system("Color F0");
     system("Title 2º Exercício do Trabalho");
     setlocale(LC_ALL, "Portuguese");
     printf("Maior idade");

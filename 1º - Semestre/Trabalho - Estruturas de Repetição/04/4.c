@@ -9,12 +9,12 @@ cinco da lista.*/
 void main()
 {
     int N=1, R=0, R1=0;
-    system("Color 70");
+    system("Color F0");
     system("Title 4º Exercícido do Trabalho");
     setlocale(LC_ALL, "Portuguese");
-    printf("Soma dos Números Múltiplos de Cinco");
+    printf("Soma dos números múltiplos de cinco");
     printf("\n__________________________________________________\n");
-    printf("\nInforme 0 para Finalizar a Lista");
+    printf("\nInforme 0 para finalizar a lista");
     printf("\n__________________________________________________\n");
     while(N!=0)
     {
